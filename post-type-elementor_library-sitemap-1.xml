@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://vincentduplessis.co.za/lncaterers/sitemap-stylesheet.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vincentduplessis.co.za/lncaterers/?elementor_library=default-kit-2</loc>
+    <lastmod>2026-10-23T09:15:53+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vincentduplessis.co.za/lncaterers/?elementor_library=default-kit</loc>
+    <lastmod>2026-10-23T09:11:08+00:00</lastmod>
+  </url>
+</urlset>
